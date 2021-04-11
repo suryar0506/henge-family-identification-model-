@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+
+#webcam_div{
+height: 300px;
+width: 350px;
+background-color: black;
+}
+
+#captured_snapshot_div{
+    height: 300px;
+    width: 350px;
+    background-color:rgb(255, 255, 255);
+}
+
+hr{
+    border: 2px solid black;
+}
